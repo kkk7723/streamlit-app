@@ -1,0 +1,6 @@
+# キャッシュや不要なファイル
+*.log
+*.tmp
+__pycache__/
+.vscode/
+.env
